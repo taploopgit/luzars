@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Daniel Alejandro Mendoza Padilla
+N:Mendoza Padilla;Daniel Alejandro;;;
+ORG:Luzars
+TITLE:Ejecutivo de Refacciones y Servicios
+EMAIL;TYPE=INTERNET,WORK:daniel.mendoza@luzars.com
+TEL;TYPE=CELL,VOICE:4424797821
+TEL;TYPE=WORK,VOICE:4422952969
+ADR;TYPE=WORK:;;Carr. Al Campo Militar # 305 Int K\, Col. San Antonio de la Punta\, Conjunto Industrial San Antonio;Santiago de Querétaro;Qro.;76135;México
+URL:https://luzars.com/
+NOTE:Responsable de brindar atención postventa, gestión de refacciones y coordinación de servicios técnicos para garantizar la continuidad operativa del cliente.
+END:VCARD

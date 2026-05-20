@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Hector Antonio Sosa Mendoza
+N:Sosa Mendoza;Hector Antonio;;;
+ORG:Luzars
+TITLE:Vendedor Senior en Mexico
+EMAIL;TYPE=INTERNET,WORK:hector-sosa@luzars.com
+TEL;TYPE=CELL,VOICE:4461417845
+TEL;TYPE=WORK,VOICE:4422952969
+ADR;TYPE=WORK:;;Carr. Al Campo Militar # 305 Int K\, Col. San Antonio de la Punta\, Conjunto Industrial San Antonio;Santiago de Queretaro;Qro.;76135;Mexico
+URL:https://luzars.com/
+NOTE:Especialista en identificar las necesidades de cada proyecto y ofrecer soluciones estrategicas que aporten valor, eficiencia y resultados.
+END:VCARD

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#020a12" stop-opacity="0.38" />
+      <stop offset="44%" stop-color="#020a12" stop-opacity="0.82" />
+      <stop offset="100%" stop-color="#020a12" stop-opacity="0.96" />
+    </linearGradient>
+    <style>
+      .eyebrow { fill: rgba(255,255,255,.6); font: 600 22px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; letter-spacing: 4px; text-transform: uppercase; }
+      .name { fill: #fff; font: 700 74px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+      .role { fill: #f97316; font: 650 32px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; letter-spacing: 1px; text-transform: uppercase; }
+      .body { fill: rgba(255,255,255,.78); font: 400 29px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+      .label { fill: #f97316; font: 700 21px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; letter-spacing: 2px; text-transform: uppercase; }
+      .value { fill: rgba(255,255,255,.94); font: 400 28px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+      .value-sm { fill: rgba(255,255,255,.94); font: 400 26px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+      .cta { fill: #fff; font: 700 29px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; letter-spacing: 2.5px; text-transform: uppercase; }
+    </style>
+  </defs>
+
+  <image href="img/fondo.png" x="0" y="0" width="1080" height="1920" preserveAspectRatio="xMidYMid slice" />
+  <rect x="0" y="0" width="1080" height="1920" fill="url(#overlay)" />
+
+  <image href="img/logo-luzars.png" x="376" y="112" width="328" height="101" preserveAspectRatio="xMidYMid meet" />
+
+  <text x="540" y="340" text-anchor="middle" class="eyebrow">LUZARS INDUCTION HEATING</text>
+
+  <text x="540" y="444" text-anchor="middle" class="name">
+    <tspan x="540" dy="0">Daniel Alejandro</tspan>
+    <tspan x="540" dy="82">Mendoza Padilla</tspan>
+  </text>
+
+  <text x="540" y="646" text-anchor="middle" class="role">Ejecutivo de Refacciones y Servicios</text>
+
+  <text x="540" y="742" text-anchor="middle" class="body">
+    <tspan x="540" dy="0">Responsable de brindar atención postventa, gestión de</tspan>
+    <tspan x="540" dy="44">refacciones y coordinación de servicios técnicos para</tspan>
+    <tspan x="540" dy="44">garantizar la continuidad operativa del cliente.</tspan>
+  </text>
+
+  <rect x="130" y="876" width="820" height="104" fill="#f97316" />
+  <text x="540" y="940" text-anchor="middle" dominant-baseline="middle" class="cta">Guardar contacto</text>
+
+  <g>
+    <rect x="130" y="1006" width="820" height="118" fill="rgba(7,16,25,.42)" stroke="rgba(255,255,255,.16)" />
+    <text x="160" y="1046" class="label">Correo</text>
+    <text x="160" y="1094" class="value">daniel.mendoza@luzars.com</text>
+  </g>
+
+  <g>
+    <rect x="130" y="1138" width="820" height="118" fill="rgba(7,16,25,.42)" stroke="rgba(255,255,255,.16)" />
+    <text x="160" y="1178" class="label">Teléfono</text>
+    <text x="160" y="1226" class="value">442-479-7821</text>
+  </g>
+
+  <g>
+    <rect x="130" y="1270" width="820" height="176" fill="rgba(7,16,25,.42)" stroke="rgba(255,255,255,.16)" />
+    <text x="160" y="1310" class="label">Dirección sucursal</text>
+    <text x="160" y="1358" class="value-sm">
+      <tspan x="160" dy="0">Carr. Al Campo Militar # 305 Int K, Col. San Antonio de la</tspan>
+      <tspan x="160" dy="38">Punta, Conjunto Industrial San Antonio, 76135 Santiago</tspan>
+      <tspan x="160" dy="38">de Querétaro, Qro.</tspan>
+    </text>
+  </g>
+
+  <g>
+    <rect x="130" y="1460" width="820" height="118" fill="rgba(7,16,25,.42)" stroke="rgba(255,255,255,.16)" />
+    <text x="160" y="1500" class="label">Teléfono sucursal</text>
+    <text x="160" y="1548" class="value">442 295 2969</text>
+  </g>
+
+  <g>
+    <rect x="130" y="1592" width="820" height="118" fill="rgba(7,16,25,.42)" stroke="rgba(255,255,255,.16)" />
+    <text x="160" y="1632" class="label">Página web</text>
+    <text x="160" y="1680" class="value">luzars.com</text>
+  </g>
+</svg>
