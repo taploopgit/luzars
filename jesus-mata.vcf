@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jesús Mata
+N:Mata;Jesús;;;
+ORG:Luzars
+TITLE:Soporte técnico
+EMAIL;TYPE=INTERNET,WORK:soporte.tecnico@luzars.com
+TEL;TYPE=CELL,VOICE:4426248862
+TEL;TYPE=WORK,VOICE:4422952969
+ADR;TYPE=WORK:;;Carr. Al Campo Militar # 305 Int K\, Col. San Antonio de la Punta\, Conjunto Industrial San Antonio;Santiago de Querétaro;Qro.;76135;México
+URL:https://luzars.com/
+NOTE:Respaldo técnico especializado.
+END:VCARD

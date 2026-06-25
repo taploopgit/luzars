@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Ana Quevedo
+N:Quevedo;Ana;;;
+ORG:Luzars
+TITLE:Ventas Tratamientos Térmicos
+EMAIL;TYPE=INTERNET,WORK:ana.quevedo@luzars.com
+TEL;TYPE=CELL,VOICE:4428478295
+TEL;TYPE=WORK,VOICE:4422952969
+ADR;TYPE=WORK:;;Carr. Al Campo Militar # 305 Int K\, Col. San Antonio de la Punta\, Conjunto Industrial San Antonio;Santiago de Querétaro;Qro.;76135;México
+URL:https://luzars.com/
+NOTE:Acompañamiento en proyectos de tratamientos térmicos.
+END:VCARD

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Yazmín Ballarta
+N:Ballarta;Yazmín;;;
+ORG:Luzars
+TITLE:Representante comercial
+EMAIL;TYPE=INTERNET,WORK:yazmin.ballarta@luzars.com
+TEL;TYPE=CELL,VOICE:4422028806
+TEL;TYPE=WORK,VOICE:4422952969
+ADR;TYPE=WORK:;;Carr. Al Campo Militar # 305 Int K\, Col. San Antonio de la Punta\, Conjunto Industrial San Antonio;Santiago de Querétaro;Qro.;76135;México
+URL:https://luzars.com/
+NOTE:Desarrollo de oportunidades y relaciones estratégicas.
+END:VCARD
